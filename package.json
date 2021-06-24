@@ -1,0 +1,24 @@
+{
+  "name": "newman-tests",
+  "version": "1.0.0",
+  "description": "Fazendo testes com newman para entende-lo melhor e praticar testes automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biimok/newman-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biimok/newman-tests/issues"
+  },
+  "homepage": "https://github.com/Biimok/newman-tests#readme",
+  "dependencies": {
+    "newman": "^5.2.4",
+    "newman-reporter-htmlextra": "^1.21.0"
+  }
+}
